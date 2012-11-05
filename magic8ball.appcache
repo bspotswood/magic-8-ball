@@ -1,0 +1,19 @@
+CACHE MANIFEST
+
+CACHE:
+# Offline cache v2
+# for this to work for ipad, it has to be served up with the correct content-type: http://www.gauravmanek.com/blog/?p=31
+
+# html files
+index.html
+
+# css files
+magic8ball.css
+
+# js files
+magic8ball.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js
+
+# images
+triangle.png
+

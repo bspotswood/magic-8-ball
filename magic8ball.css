@@ -1,0 +1,31 @@
+root { 
+    display: block;
+}
+
+body{
+    background-color: #11002b;
+    margin: 0;
+}
+
+#answer_container {
+    position: absolute;
+    width: 489px;
+    height: 304px;
+    left: 267px;
+    top: 232px;
+    
+    background-image: url('triangle.png');
+    
+    font-family: 'arial';
+    font-size: 31pt;
+    text-align: center;
+}
+
+#answer {
+    display: block;
+    text-align: center;
+    width: 289px;
+    max-width: 289px;
+    margin-left: 100px;
+    margin-top: 35px;
+}
